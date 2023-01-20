@@ -1,4 +1,4 @@
 # Discord Tickets
-Merhaba ticket botu ile ilgili bir sorununuz var ise bana ulaşın "! NumbError !#0001"
+Merhaba ticket botu ile ilgili bir sorununuz var ise bana ulaşın "Phaelis#0001"
 
-Realized with ❤️ by [NumbDev](https://github.com/NumbError).
+Realized with ❤️ by [Phaelis](https://github.com/Phaelis).
