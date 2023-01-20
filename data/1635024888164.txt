@@ -1,7 +1,7 @@
 User ticket 617498280452161538 (channel #ticket-617498280452161538)
 
-10/03/2022, 23:34:26 - !NumbError.js#0001 (ticket creator) : Hi I would like to be paid
-10/03/2022, 23:34:37 - ! NumbError !#0001 : This is not possible man
-10/03/2022, 23:34:44 - !NumbError.js#0001 (ticket creator) : Oh no...
+10/03/2022, 23:34:26 - Phaelis.js#0001 (ticket creator) : Hi I would like to be paid
+10/03/2022, 23:34:37 - Phaelis#0001 : This is not possible man
+10/03/2022, 23:34:44 - Phaelis#0001 (ticket creator) : Oh no...
 
 Logs 10/03/2022, 16:50:48
